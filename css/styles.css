@@ -237,7 +237,7 @@ main .contenedordeprincipal h3{
     display:flex;
     background-color: #c7c6c6;
     height: 800px;
-    width: 300px;
+    width: 18%;
     position: absolute;
     left: 78%;
     z-index: 5;
@@ -271,7 +271,7 @@ main .contenedordeprincipal h3{
     display:flex;
     background-color: #c7c6c6;
     height: 800px;
-    width: 300px;
+    width: 18%;
     position: absolute;
     left: 5%;  
     z-index: 5;
@@ -296,7 +296,7 @@ main .contenedordeprincipal h3{
  .v-line1{
     position:absolute;
     top: 138pc;
-    left: 32pc;
+    left: 30%;
     width:3em;
     height:6em;
     border-radius: 150px 30px 15px 10px;
@@ -307,7 +307,7 @@ main .contenedordeprincipal h3{
  .v-line2{
     position:absolute;
     top: 138pc;
-    left: 35pc;
+    left: 32%;
     width:3em;
     height:6em;
     border-radius: 150px 30px 15px 10px;
@@ -318,7 +318,7 @@ main .contenedordeprincipal h3{
  .v-line3{
     position:absolute;
     top: 152pc;
-    left: 87.8pc;
+    left: 75.8%;
     width:3em;
     height:6em;
     border-radius: 30px 15px 150px 10px;
@@ -330,7 +330,7 @@ main .contenedordeprincipal h3{
  .v-line4{
     position:absolute;
     top: 152pc;
-    left: 90.52pc;
+    left: 78.52%;
     width:3em;
     height:6em;
     border-radius: 30px 15px 150px 10px;
@@ -341,7 +341,7 @@ main .contenedordeprincipal h3{
  }
  .v-line5{
     top: 142pc;
-    left: 92.8pc;
+    left: 80.8%;
     border-left: 10px solid #bfbbbb;
     height:8em;
     width:3em;
@@ -349,7 +349,7 @@ main .contenedordeprincipal h3{
  }
  .v-line6{
     top: 142pc;
-    left: 90pc;
+    left: 78%;
     border-left: 10px solid #bfbbbb;
     height:8em;
     width:3em;
@@ -392,7 +392,7 @@ main .contenedordeprincipal h3{
     display:flex;
     background-color: #c7c6c6;
     height: 800px;
-    width: 300px;
+    width: 18%;
     position: absolute;
     left: 78%;  
     z-index: 5;
